@@ -1,3 +1,7 @@
 .project
 .pydevproject
 __pycache__/
+token.pickle
+credentials.json
+contrats_20*/
+mejoucontrats.ini

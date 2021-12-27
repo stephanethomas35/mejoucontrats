@@ -1,1 +1,1 @@
-python contrats.py
+python mejougui.py
